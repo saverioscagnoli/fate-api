@@ -11,9 +11,12 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
+    "csv-rw": "^3.0.3",
+    "find-marker": "^0.0.3",
     "undici": "^6.5.0"
   },
   "devDependencies": {
+    "@types/node": "^20.11.10",
     "rimraf": "^5.0.5",
     "ts-node": "^10.9.2",
     "tsc-alias": "^1.8.8",
