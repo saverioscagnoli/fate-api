@@ -1,0 +1,11 @@
+{
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./dist",
+    "baseUrl": "./src",
+    "paths": {
+      "@lib": ["lib/index.ts"],
+      "@scrapers": ["scrapers/index.ts"]
+    }
+  }
+}
