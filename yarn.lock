@@ -263,10 +263,10 @@ css-what@^6.1.0:
   resolved "https://registry.yarnpkg.com/css-what/-/css-what-6.1.0.tgz#fb5effcf76f1ddea2c81bdfaa4de44e79bac70f4"
   integrity sha512-HTUrgRJ7r4dsZKU6GjmpfRK1O76h97Z8MfS1G0FozR+oF2kG6Vfe8JE6zwrkbxigziPHinCJ+gCPjA9EaBDtRw==
 
-csv-rw@^3.0.3:
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/csv-rw/-/csv-rw-3.0.3.tgz#fba9294d3c3f4d150506784fbcc93b0733775395"
-  integrity sha512-zx8qeEUP3QbFVc0Ojr/m52txmvKHjt27xiInGkM8njQNxZjj+8yjgJ0K6kUz66TQTVAnEz0B7qgWwz5ZEmNlGQ==
+csv-rw@^3.0.4:
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/csv-rw/-/csv-rw-3.0.4.tgz#18da94503c44b0dcf3a896cd337d2c8484b330de"
+  integrity sha512-8l/1f9sNbjl7kx2JGoEnnQYePsFPHqQq6WmF5uIIwDD9+H/ILesUQa9Psuj4LuRtl3WKq8r4GvT0lNmn/SnKXA==
 
 diff@^4.0.1:
   version "4.0.2"

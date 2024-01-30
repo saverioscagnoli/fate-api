@@ -1,5 +1,7 @@
 import { request } from "undici";
 import * as cheerio from "cheerio";
+import path from "path";
+import { findMarker } from "find-marker";
 
 async function form$(url: string) {
   let res = await request(url, { method: "GET" });
@@ -7,4 +9,8 @@ async function form$(url: string) {
   return cheerio.load(html);
 }
 
-export { form$ };
+function apiPath(fileName: string) {
+  return path.join(findMarker()!, "api", "data", fileName);
+}
+
+export { form$, apiPath };

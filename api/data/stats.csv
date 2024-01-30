@@ -1,0 +1,9 @@
+id,name
+1,cost
+2,attack
+3,hp
+4,star-absorption
+5,star-generation
+6,np-charge-attack
+7,np-charge-defense
+8,death-rate

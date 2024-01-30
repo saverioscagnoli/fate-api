@@ -1,3 +1,3 @@
-import { saber } from "@scrapers";
+import { servant } from "@scrapers";
 
-Promise.all([saber()]).then(() => console.log("Done!"));
+Promise.all([servant()]).then(() => console.log("Done!"));

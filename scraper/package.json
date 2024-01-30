@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
-    "csv-rw": "^3.0.3",
+    "csv-rw": "^3.0.4",
     "find-marker": "^0.0.3",
     "undici": "^6.5.0"
   },
